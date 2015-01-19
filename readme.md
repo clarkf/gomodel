@@ -1,7 +1,7 @@
 # gomodel
 
-[![Build Status](https://travis-ci.org/clarkf/gomodel.svg)](https://travis-ci.org/clarkf/gomodel)
-[![Coverage Status](https://coveralls.io/repos/clarkf/gomodel/badge.svg)](https://coveralls.io/r/clarkf/gomodel)
+[![Build Status](https://travis-ci.org/clarkf/gomodel.svg?branch=master)](https://travis-ci.org/clarkf/gomodel)
+[![Coverage Status](https://coveralls.io/repos/clarkf/gomodel/badge.svg?branch=master)](https://coveralls.io/r/clarkf/gomodel?branch=master)
 
 The state of ORMs in the go world isn't great (as with most strongly typed
 languages), and writing your own SQL still seems to be the best way to get
