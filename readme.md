@@ -1,5 +1,8 @@
 # gomodel
 
+[![Build Status](https://travis-ci.org/clarkf/gomodel.svg)](https://travis-ci.org/clarkf/gomodel)
+[![Coverage Status](https://coveralls.io/repos/clarkf/gomodel/badge.svg)](https://coveralls.io/r/clarkf/gomodel)
+
 The state of ORMs in the go world isn't great (as with most strongly typed
 languages), and writing your own SQL still seems to be the best way to get
 stuff done. gomodel helps with this task by unmarshaling your data into usable
